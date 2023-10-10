@@ -1,0 +1,23 @@
+.form{
+    margin-top: 60px;
+    margin-left: -20px;
+   cursor: alias;
+    /* width: 350px; */
+    
+    text-align: center;
+}
+.form input,h4,label,small{
+    font-weight: bold;
+    font-style: italic;
+}
+.submitbutton{
+    font-weight: bold;
+    font-style: italic;
+    background-color: rgb(250, 42, 42);
+   
+}
+.Link{
+    font-weight: bold;
+    font-style: italic;
+    margin-left: 900px;
+}
